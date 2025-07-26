@@ -1,2 +1,2 @@
-# vietnamese-text-processing-pipeline
-NLP pipeline for Vietnamese
+# VSL-pipeline
+NLP pipeline for Vietnamese Sign Language
